@@ -1,4 +1,4 @@
-### Project Title: Event Key Code Display
+### Event Key Code Display
 
 **Description:**
 The "Event Key Code Display" project is a simple and interactive web application that allows users to explore key-related information with each keystroke. Featuring a clean and modern design, the interface dynamically updates to showcase the pressed key's name, key code, and event code. Enhanced by CSS styling, the project delivers a visually appealing and user-friendly experience, serving as a valuable tool for developers and users. Gain real-time insights into key-related events on devices.
